@@ -126,7 +126,7 @@ const Navbar = ({ onNavigate, currentView }: { onNavigate: (view: string) => voi
         <div className="flex justify-between h-20 items-center">
           <div className="flex items-center cursor-pointer group" onClick={() => onNavigate('home')}>
             <div className="relative w-12 h-12 bg-white rounded-xl flex items-center justify-center shadow-lg shadow-emerald-100 mr-3 group-hover:scale-105 transition-transform overflow-hidden border border-stone-100">
-              <img src="/jib.png" className="w-full h-full object-contain p-1" alt="JIB Logo" />
+              <img src="https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/jib.png?raw=true" className="w-full h-full object-contain p-1" alt="JIB Logo" />
             </div>
             <div>
               <span className="text-xl font-black text-stone-900 block leading-tight tracking-tight">Mindanao Peaks</span>
