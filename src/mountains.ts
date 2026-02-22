@@ -88,7 +88,7 @@ export const mountains: Mountain[] = [
     duration: '2 Days',
     bestTime: 'March to May',
     description: 'Mount Kitanglad is an inactive volcano located in the Kitanglad Mountain Range in Bukidnon province. It is the fourth highest mountain in the Philippines and features a prominent communication tower at its summit.',
-    image: '/Mount_Kitanglad_and_the_Kitanglad_Mountain_Range.jpg',
+    image: 'https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/Mount_Kitanglad_and_the_Kitanglad_Mountain_Range.jpg?raw=true',
     coordinates: { lat: 8.1311, lng: 124.9158 },
     permits: {
       where: 'PAMB Office, Malaybalay City',
@@ -163,7 +163,7 @@ export const mountains: Mountain[] = [
     duration: '2-3 Days',
     bestTime: 'March to May',
     description: 'Mount Malindang is a complex volcano range and a National Park. It is famous for its crater lake, Lake Duminagat, which is considered sacred by the Subanen tribe.',
-    image: '/Mt._malindang.jpg',
+    image: 'https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/Mt._malindang.jpg?raw=true',
     coordinates: { lat: 8.2167, lng: 123.6333 },
     permits: {
       where: 'PAMB Office, Oroquieta City',
@@ -188,7 +188,7 @@ export const mountains: Mountain[] = [
     duration: '3 Days',
     bestTime: 'February to April',
     description: 'Mount Kalatungan is one of the highest peaks in the Philippines. It is known for its challenging "Dead Trail" and the beautiful "Wiji" peak. It offers a rugged and wild experience for seasoned hikers.',
-    image: '/Mt._Kalatungan_Range.jpg',
+    image: 'https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/Mt._Kalatungan_Range.jpg?raw=true',
     coordinates: { lat: 7.9500, lng: 124.8000 },
     permits: {
       where: 'Pangantucan Tourism Office',
