@@ -1,0 +1,7 @@
+{
+  "name": "Mindanao Peaks - Majestic Mountains of Mindanao",
+  "description": "A modern tourism website showcasing the breathtaking mountains of Mindanao, Philippines, featuring interactive maps and comprehensive hiking guides.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
