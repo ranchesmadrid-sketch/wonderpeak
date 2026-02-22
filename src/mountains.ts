@@ -38,7 +38,7 @@ export const mountains: Mountain[] = [
     duration: '2-3 Days',
     bestTime: 'March to May (Dry Season)',
     description: 'Mount Apo is a large solfataric, potentially active stratovolcano in the island of Mindanao, Philippines. With an elevation of 2,954 meters above sea level, it is the highest mountain in the Philippine Archipelago and is located between Davao City and Davao del Sur province in Region XI and Cotabato province in Region XII.',
-    image: '/1280px-Mount_Apo.jpeg',
+    image: 'https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/1280px-Mount_Apo.jpeg?raw=true',
     coordinates: { lat: 7.0053, lng: 125.2711 },
     permits: {
       where: 'DENR-PAMB Office in Digos City or Kidapawan City',
@@ -63,7 +63,7 @@ export const mountains: Mountain[] = [
     duration: '3-4 Days (often combined with Kitanglad)',
     bestTime: 'February to April',
     description: 'Mount Dulang-dulang, nicknamed D2, is the highest peak of the Kitanglad Mountain Range and the second highest mountain in the Philippines. It is considered a sacred place by the Talaandig tribe of Lantapan.',
-    image: '/Dulang-dulang_peak.JPG',
+    image: 'https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/Dulang-dulang_peak.JPG?raw=true',
     coordinates: { lat: 8.1139, lng: 124.9214 },
     permits: {
       where: 'Lantapan Municipal Tourism Office',
@@ -113,7 +113,7 @@ export const mountains: Mountain[] = [
     duration: '1-2 Days',
     bestTime: 'January to June',
     description: 'Mount Matutum is an active volcano located in South Cotabato. It is a landmark of the province and is home to the Philippine Tarsier and various endemic bird species.',
-    image: '/Matutum.jpg',
+    image: 'https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/Matutum.jpg?raw=true',
     coordinates: { lat: 6.3600, lng: 125.0700 },
     permits: {
       where: 'Tupi Municipal Tourism Office',
@@ -138,7 +138,7 @@ export const mountains: Mountain[] = [
     duration: '1 Day',
     bestTime: 'April to October',
     description: 'Mount Hibok-Hibok is a popular hiking destination in the island province of Camiguin. It offers a stunning view of the white island and the nearby provinces of Bohol and Cebu from its summit.',
-    image: '/Mount_Hibok_Hibok.jpg',
+    image: 'https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/Mount_Hibok_Hibok.jpg?raw=true',
     coordinates: { lat: 9.2031, lng: 124.6725 },
     permits: {
       where: 'DENR Office in Mambajao',
