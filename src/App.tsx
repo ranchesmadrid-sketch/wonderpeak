@@ -317,7 +317,7 @@ const AboutPage = () => (
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
         >
-          <img src="/jib.png" className="w-32 h-32 mx-auto mb-8 bg-white p-4 rounded-3xl shadow-2xl" alt="JIB Logo" />
+          <img src="https://github.com/ranchesmadrid-sketch/wonderpeak/blob/main/jib.png?raw=true" className="w-32 h-32 mx-auto mb-8 bg-white p-4 rounded-3xl shadow-2xl" alt="JIB Logo" />
           <h1 className="text-4xl md:text-6xl font-black text-white mb-4">Joji Ilagan College of Business and Tourism</h1>
           <p className="text-emerald-400 font-bold tracking-widest uppercase text-sm">Pioneering Excellence Since 1982</p>
         </motion.div>
